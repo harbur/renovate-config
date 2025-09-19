@@ -6,4 +6,7 @@
   ],
   "automerge": true,
   "automergeType": "branch"
+  "automergeSchedule": [
+    "at any time"
+  ]
 }
