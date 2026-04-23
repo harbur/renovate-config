@@ -8,5 +8,11 @@
   "automergeType": "branch",
   "automergeSchedule": [
     "at any time"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["github.com/swaggo/files"],
+      "enabled": false
+    }
   ]
 }
