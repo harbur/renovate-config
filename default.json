@@ -9,6 +9,7 @@
   "automergeSchedule": [
     "at any time"
   ],
+  "rebaseWhen": "conflicted",
   "packageRules": [
     {
       "matchPackageNames": ["github.com/swaggo/files"],
