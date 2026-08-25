@@ -10,6 +10,9 @@
     "at any time"
   ],
   "rebaseWhen": "conflicted",
+  "lockFileMaintenance": {
+    "enabled": true
+  },
   "packageRules": [
     {
       "matchPackageNames": ["github.com/swaggo/files"],
