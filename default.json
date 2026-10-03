@@ -5,7 +5,8 @@
     "schedule:weekly"
   ],
   "automerge": true,
-  "automergeType": "branch",
+  "automergeType": "pr",
+  "prHourlyLimit": 0,
   "automergeSchedule": [
     "at any time"
   ],
